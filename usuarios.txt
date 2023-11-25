@@ -1,0 +1,3 @@
+email, senha, nome, genero, cpf, idade, cidade, estado_uf, saldo, credito, tipo, id, id_gerente
+j,123,jj,mas,123,21,curitiba,pr,100,200,cliente, 1, id_gerente
+george@gmail.com,123,George,123.123.123.123.123,67,Curitiba,PR,-,-,gerente,2,1
